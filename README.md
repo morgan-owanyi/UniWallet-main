@@ -33,7 +33,7 @@ UniWallet is a web application designed to help students and young professionals
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/komoireashiraf/uniwallet.git  
+   git clone https://github.com/morgan2324/uniwallet.git  
    cd uniwallet  
 2. Install dependencies:
    ```bash
@@ -64,4 +64,4 @@ e. Open a pull request.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For inquiries or feedback, please contact komoireashiraf@gmail.com.
+For inquiries or feedback, please contact morganowanyi@gmail.com
